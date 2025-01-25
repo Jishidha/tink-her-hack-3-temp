@@ -1,28 +1,28 @@
 
 
-# [Project Name] 🎯
+# [NOMADA] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [TECT-TITANS]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [K U DEVIKA] - [NSS COLLEGE OF ENGINEERING ,PALAKKAD]
+- Member 2: [JISHIDHA J ] - [NSS COLGE OF ENGINEERING ,PALAKKAD]
+- Member 3: [AMRUHTHA U] - [NSS COLLEGE OF ENGINERRING ,PALAKKAD]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Are you tired of feeling anxious or lonely during long trips? Introducing our web app, designed to transform your travel experience by connecting you with fellow passengers in your vehicle. With safety as a priority, our platform allows you to chat, share stories, and build connections with like-minded travelers. The app also shows the distance of each user from you, making it easier to understand who's nearby and connect seamlessly. Whether you're looking for engaging conversations or a companion to make the journey enjoyable, our app ensures that every trip feels less daunting and more adventurous.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[Oh  Shucks I'm Stuck: Adventure  Without The Anxiety]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[]
 
 ## Technical Details
 ### Technologies/Components Used
