@@ -22,15 +22,22 @@
 [Oh  Shucks I'm Stuck: Adventure  Without The Anxiety]
 
 ### The Solution
-[]
+[created a website Namado where people can travel along with a person to the same destination.this website also has safety elements and doesn't disclose the personal details without any specific reason. ]
 
 ## Technical Details
+
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Java script]
+- [Express]
+- [route
+   react
+   axios
+   express
+   mangoose]
+- [react.js
+   node.js
+   mongo.db]
 
 For Hardware:
 - [List main components]
@@ -40,16 +47,16 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+[https://github.com/Jishidha/tink-her-hack-3-temp.git]
 
 # Run
-[commands]
+[npm run dev]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![https://drive.google.com/file/d/1c2r66Iof2gvHO8cljumaTzLGASfA7v0e/view?usp=drivesdk](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -86,16 +93,18 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://drive.google.com/file/d/1c2r66Iof2gvHO8cljumaTzLGASfA7v0e/view?usp=drivesdk]
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+-  [k u devika ]: [idea and setup ,features ]
+- [jishidha j]: [frontend and idea]
+- [Amrutha u]: [backend express and idea ]
+- 
+- 
 
 ---
 Made with ❤️ at TinkerHub
